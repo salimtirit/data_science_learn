@@ -1,2 +1,2 @@
-./internship docs
-./__pycache__
+internship_docs/
+__pycache__/
