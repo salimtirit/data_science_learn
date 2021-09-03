@@ -19,9 +19,3 @@ classifier.fit(X_train, y_train)
 y_pred = classifier.predict(X_test)
 
 print("Roc auc score: ",metrics.roc_auc_score(y_test,y_pred))
-
-
-
-
-
-
