@@ -1,0 +1,8 @@
+DecisionTreeClassifier  max_depth 2,3,4
+LogisticRegression
+SVC
+
+
+70-20 / 10
+
+90 5fold Cross Validation/10
